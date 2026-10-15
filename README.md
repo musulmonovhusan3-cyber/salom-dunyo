@@ -1,0 +1,2 @@
+# salom-dunyo
+salom dunyo
